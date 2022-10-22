@@ -1,4 +1,4 @@
-FROM default-route-openshift-image-registry.apps.ocp4.test.com/zzz2613-workspace/tomcat:8.0.51-jre8-alpine
+FROM default-route-openshift-image-registry.apps.ocp4.test.com/openshift/tomcat:8.0.51-jre8-alpine
 
 LABEL maintainer "zzz2613"
 
